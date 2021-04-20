@@ -1,7 +1,5 @@
 # Stablecoins-Infinity-Profit-Bot
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fitxtoledo%2FStablecoins-Infinity-Profit-Bot.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fitxtoledo%2FStablecoins-Infinity-Profit-Bot?ref=badge_shield)
 
-[![Known Vulnerabilities](https://snyk.io/test/github/Guillerbr/Stablecoins-Infinity-Profit-Bot/badge.svg?targetFile=package.json)](https://snyk.io/test/github/Guillerbr/Stablecoins-Infinity-Profit-Bot?targetFile=package.json)
 
 Old TUSD-USDT Infinity Profit Bot
 
